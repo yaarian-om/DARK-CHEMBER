@@ -47,7 +47,7 @@ git clone https://github.com/yaarian-om/DARK-CHEMBER
   -  To download the release, press this from Code, showing below
 
 ```dotnetcli
-git clone https://github.com/yaarian-om/DARK-CHEMBER/releases/tag/v1.0.1
+https://github.com/yaarian-om/DARK-CHEMBER/releases/tag/v1.0.1
 ```
 
 
